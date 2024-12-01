@@ -1,6 +1,5 @@
 # 👉Write a programe to handle multiple execeptions like
 #   syntaxerror and typeerror.
-from multiprocessing.connection import answer_challenge
 
 try:
     a = eval(input("Enter a dividend="))
